@@ -239,7 +239,7 @@ position: relative;
     display: inline-block;
     padding: 1em;
     background-color: #ffffff80;
-    color: #312a26;
+    color: #8c378c;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     margin-top: 1em;
@@ -319,7 +319,7 @@ form h3 {
     text-transform: uppercase;
 }
 form input[type="submit"]{
-    background-color: #c8a17a;
+    background-color: #74b9c8;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -376,7 +376,7 @@ form h3:after {
 .footer td, th {
     color: #fff;
     font-family: 'Railway' ,sans-serif;
-    text-shadow: 3px 3px 6px #312a26;
+    text-shadow: 3px 3px 6px #fff;
 }
 .footer-form *{
     width: auto;
